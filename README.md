@@ -4,7 +4,7 @@
 
 <img src="/logos/Spring_Boot.png" alt="Spring Boot" width="100"/>
 <img src="/logos/deepseek-logo.png" alt="Spring Boot" width="100"/>
-<img src="/logos/react-logo.svg" alt="Spring Boot" width="100"/>
+<img src="/logos/React-icon.svg.png" alt="Spring Boot" width="100"/>
 <img src="/logos/chakra-logo.svg" alt="Spring Boot" width="100"/>
 <img src="/logos/logo-with-shadow.png" alt="Spring Boot" width="100"/>
 
